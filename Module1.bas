@@ -1,11 +1,9 @@
-Attribute VB_Name = "Module1"
-Sub ∆Єлтый÷вет()
-Attribute ∆Єлтый÷вет.VB_ProcData.VB_Invoke_Func = "Y\n14"
+Sub √Ж¬Є√Ђ√≤√ї√©√Ц√Ґ√•√≤()
     For Each cell In Selection
         cell.Interior.Color = vbYellow
     Next
 End Sub
 
-Function ћќƒ”Ћ№–ј«Ќ»÷џ(a, b)
-    ћќƒ”Ћ№–ј«Ќ»÷џ = Abs(a - b)
+Function √М√О√Д√У√Л√Ь√Р√А√З√Н√И√Ц√Ы(a, b)
+    √М√О√Д√У√Л√Ь√Р√А√З√Н√И√Ц√Ы = Abs(a - b)
 End Function
